@@ -7,7 +7,7 @@
 This repository contains our submission for the Jazzee2025 Hackathon, presenting an innovative AI-powered solution designed to simplify GST compliance for Indian Small and Medium Enterprises. The submission consists of two key documents:
 
 1. **[Project Document](./_DEV_Engers_Pushkar_Jazzzee2025_Document.pdf)** - Comprehensive overview of our solution
-2. **[Pitch Video Script](./_DEV_Engers_Pushkar_Jazzzee2025_PitchVideo.txt)** - Script for our project presentation
+2. **[Pitch Video](https://www.youtube.com/watch?v=mzs5cyPPR0c)** - Script for our project presentation
 
 ## 📑 Documentation Links
 
@@ -21,7 +21,7 @@ Our comprehensive project document includes:
 - Impact assessment and ROI projections
 - Future roadmap and scaling strategy
 
-### [![TXT](https://img.shields.io/badge/Script-TXT-blue)](./_DEV_Engers_Pushkar_Jazzzee2025_PitchVideo.txt) Pitch Video Script
+### [![VIDEO](https://img.shields.io/badge/Video-YT-blue)](https://www.youtube.com/watch?v=mzs5cyPPR0c) Pitch Video
 The narrative framework for our project presentation including:
 - Key value propositions and problem statement
 - Solution demonstration highlights
